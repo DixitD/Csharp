@@ -1,0 +1,7 @@
+C:\Users\dixit\source\repos\english_dictionary\english_dictionary\bin\Debug\english_dictionary.exe.config
+C:\Users\dixit\source\repos\english_dictionary\english_dictionary\bin\Debug\english_dictionary.exe
+C:\Users\dixit\source\repos\english_dictionary\english_dictionary\bin\Debug\english_dictionary.pdb
+C:\Users\dixit\source\repos\english_dictionary\english_dictionary\obj\Debug\english_dictionary.csprojResolveAssemblyReference.cache
+C:\Users\dixit\source\repos\english_dictionary\english_dictionary\obj\Debug\english_dictionary.csproj.CoreCompileInputs.cache
+C:\Users\dixit\source\repos\english_dictionary\english_dictionary\obj\Debug\english_dictionary.exe
+C:\Users\dixit\source\repos\english_dictionary\english_dictionary\obj\Debug\english_dictionary.pdb

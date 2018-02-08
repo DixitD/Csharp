@@ -1,0 +1,7 @@
+C:\Users\dixit\source\repos\Prime_Minister\Prime_Minister\obj\Debug\Prime_Minister.csprojResolveAssemblyReference.cache
+C:\Users\dixit\source\repos\Prime_Minister\Prime_Minister\obj\Debug\Prime_Minister.csproj.CoreCompileInputs.cache
+C:\Users\dixit\source\repos\Prime_Minister\Prime_Minister\bin\Debug\Prime_Minister.exe.config
+C:\Users\dixit\source\repos\Prime_Minister\Prime_Minister\bin\Debug\Prime_Minister.exe
+C:\Users\dixit\source\repos\Prime_Minister\Prime_Minister\bin\Debug\Prime_Minister.pdb
+C:\Users\dixit\source\repos\Prime_Minister\Prime_Minister\obj\Debug\Prime_Minister.exe
+C:\Users\dixit\source\repos\Prime_Minister\Prime_Minister\obj\Debug\Prime_Minister.pdb
