@@ -1,0 +1,7 @@
+c:\users\dixit\source\repos\Inventory\Inventory\bin\Debug\Inventory.exe.config
+c:\users\dixit\source\repos\Inventory\Inventory\bin\Debug\Inventory.exe
+c:\users\dixit\source\repos\Inventory\Inventory\bin\Debug\Inventory.pdb
+c:\users\dixit\source\repos\Inventory\Inventory\obj\Debug\Inventory.csprojResolveAssemblyReference.cache
+c:\users\dixit\source\repos\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+c:\users\dixit\source\repos\Inventory\Inventory\obj\Debug\Inventory.exe
+c:\users\dixit\source\repos\Inventory\Inventory\obj\Debug\Inventory.pdb

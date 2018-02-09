@@ -1,0 +1,7 @@
+c:\users\dixit\source\repos\math\math\bin\Debug\math.exe.config
+c:\users\dixit\source\repos\math\math\bin\Debug\math.exe
+c:\users\dixit\source\repos\math\math\bin\Debug\math.pdb
+c:\users\dixit\source\repos\math\math\obj\Debug\math.csprojResolveAssemblyReference.cache
+c:\users\dixit\source\repos\math\math\obj\Debug\math.csproj.CoreCompileInputs.cache
+c:\users\dixit\source\repos\math\math\obj\Debug\math.exe
+c:\users\dixit\source\repos\math\math\obj\Debug\math.pdb
