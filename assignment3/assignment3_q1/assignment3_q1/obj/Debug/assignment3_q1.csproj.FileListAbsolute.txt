@@ -1,0 +1,7 @@
+c:\users\dixit\source\repos\assignment3_q1\assignment3_q1\obj\Debug\assignment3_q1.csprojResolveAssemblyReference.cache
+c:\users\dixit\source\repos\assignment3_q1\assignment3_q1\obj\Debug\assignment3_q1.csproj.CoreCompileInputs.cache
+c:\users\dixit\source\repos\assignment3_q1\assignment3_q1\bin\Debug\assignment3_q1.exe.config
+c:\users\dixit\source\repos\assignment3_q1\assignment3_q1\bin\Debug\assignment3_q1.exe
+c:\users\dixit\source\repos\assignment3_q1\assignment3_q1\bin\Debug\assignment3_q1.pdb
+c:\users\dixit\source\repos\assignment3_q1\assignment3_q1\obj\Debug\assignment3_q1.exe
+c:\users\dixit\source\repos\assignment3_q1\assignment3_q1\obj\Debug\assignment3_q1.pdb
